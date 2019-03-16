@@ -1,0 +1,6 @@
+framework module TailorLabel {
+  umbrella header "TailorLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TailorLabel (0.1.0)
+
+DEPENDENCIES:
+  - TailorLabel (from `../`)
+
+EXTERNAL SOURCES:
+  TailorLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TailorLabel: b6211913dcfdd730b036be7c432e0dbd291e7ede
+
+PODFILE CHECKSUM: b619110ae23891e7426c2530f13a6692ea0550f0
+
+COCOAPODS: 1.5.3
